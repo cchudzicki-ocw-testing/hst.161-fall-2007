@@ -7,7 +7,8 @@ image_metadata:
   caption: "Diagram of two approaches for collecting families for a linkage analysis.\
     \ Top (A): part of a Huntington's disease analysis from a single large pedigree.\
     \ Bottom (B): cystic fibrosis linkage in a collection of many smaller families.\_\
-    \ See notes for [Lecture 3](pages/lecture-notes). (Figure by MIT OpenCourseWare.)"
+    \ See notes for [Lecture 3](/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/pages/lecture-notes).\
+    \ (Figure by MIT OpenCourseWare.)"
   credit: ''
   image-alt: Pedigrees showing two approaches for collecting families for linkage
     analysis.
